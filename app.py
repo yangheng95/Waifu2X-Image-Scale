@@ -1,15 +1,11 @@
 import os
-import random
-from io import BytesIO
+
 
 import autocuda
-import requests
 from pyabsa.utils.pyabsa_utils import fprint
 
 import gradio as gr
 import torch
-from PIL import Image
-import datetime
 import time
 from Waifu2x.magnify import ImageMagnifier
 

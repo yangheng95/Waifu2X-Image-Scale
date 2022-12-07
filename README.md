@@ -1,3 +1,10 @@
+# Free Image Scale Up Demo
+## 免费在线放大图片分辨率
+
+## [Online Demo](https://huggingface.co/spaces/yangheng/Waifu2X-Image-Scale)
+
+
+
 ---
 title: Waifu2X Image Scale
 emoji: 💻
@@ -10,4 +17,3 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
